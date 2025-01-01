@@ -185,7 +185,7 @@ register('P', () => {
 		line += buf;
 	} while (buf[0] != 0x0a);
 
-	return new Str(line.replace(/\r*\n?$/, ''));
+	return new Str(line.replace(/\r?\n?$/, ''));
 });
 
 /**

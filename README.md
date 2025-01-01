@@ -1,5 +1,5 @@
 # knight.js
-A JavaScript implementation of Knight 2.0.1
+A JavaScript implementation of Knight 3.0
 
 See [the main page](https://github.com/knight-lang/knight-lang) for more details.
 
